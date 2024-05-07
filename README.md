@@ -1,2 +1,2 @@
 # CSUAG
-The code and data for the paper "Moderate or Polar? A complex Network Analysis of Media Fear Appeal and Public Sentimental Transition Related to Long-COVID"
+The code and data for the paper "Fear is Polar? A Complex Network Analysis of Media Fear Appeal and Public Sentiment Transition Related to Long-COVID"
